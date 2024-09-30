@@ -1,4 +1,4 @@
-# Multi-capped mRNA
+# STARmap PLUS dataset analysis from Friedrich et al. 
 
 <!-- ![image](.example_image.png) -->
 
@@ -20,7 +20,7 @@ TBA
 <!-- > [Zeng, H., Huang, J., Ren, J., Wang, C.K., Tang, Z., Zhou, H., Zhou, Y., Shi, H., Aditham, A., Sui, X. and Chen, H., 2023. Spatially resolved single-cell translatomics at molecular resolution. *Science*, *380*(6652), p.eadd3067.](https://www.science.org/doi/10.1126/science.add3067) -->
 
 #### Related Dataset 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12518588.svg)](https://doi.org/10.5281/zenodo.12518588)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13858686.svg)](https://doi.org/10.5281/zenodo.13858686)
 
 ***Please use the most recent version of the dataset.***
 

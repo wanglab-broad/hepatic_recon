@@ -2,8 +2,7 @@
 
 <!-- ![image](.example_image.png) -->
 
-This repository contains scripts for the STARmap PLUS dataset analysis in '**Transient hepatic reconstitution of 
-DLL1, FLT3-L, and IL-7 enhances aged immunity**'. 
+This repository contains scripts for the STARmap PLUS dataset analysis in '**Transient hepatic reconstitution of thymic factors enhances aged immunity**'. 
 
 1. ```code``` (cell type classification, visualization)
 2. ```documents``` (python environment, gene annotation dataframe)
